@@ -1,0 +1,1 @@
+.map{min-height:260px;background:linear-gradient(135deg,#0d2a4a,#174b7a);position:relative;overflow:hidden}.map:before{content:'';position:absolute;inset:12%;border:1px dashed rgba(255,255,255,.4);border-radius:50%}
